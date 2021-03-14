@@ -1,3 +1,4 @@
+import sys
 RED = '\033[31m'
 WHITE = '\033[37m'
 os.system("clear")
